@@ -6,7 +6,7 @@ The goal is to preprocess the data, train character-level Statistical Language M
 # Files in the Repository
 
   - CL2024 Assignment.ipynb: The main Jupyter Notebook containing the code and analysis for the project.
-  - parallel_sentences_en-nl-it.json: The parallel corpus file containing sentences in English (en), Dutch (nl), and Italian (it).
+  - parallel_sentences_en-nl-it.json: The parallel corpus file containing sentences in English (en), Dutch (nl), and Italian (it). Currently larger than 25 MB
   - .pkl files: These files contain the trained language models with attributes counts, vocab, and vocab_size.
   - .csv files: These files store the perplexity scores for each model on various test sets.
 

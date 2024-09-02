@@ -1,0 +1,9 @@
+lang,word,ngram_size,training_data,perplexity
+it,cristianodemocratici,3,sents,21.8757
+nl,verkiezingswaarnemingsmissie,3,sents,23.1453
+it,cristianodemocratici,3,words,21.8757
+nl,verkiezingswaarnemingsmissie,3,words,23.1453
+it,cristianodemocratici,5,sents,17.0909
+nl,verkiezingswaarnemingsmissie,5,sents,19.1324
+it,cristianodemocratici,5,words,17.0909
+nl,verkiezingswaarnemingsmissie,5,words,19.1324

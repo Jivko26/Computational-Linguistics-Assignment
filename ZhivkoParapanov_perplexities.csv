@@ -1,0 +1,13 @@
+ngram_size,training_data,test_data,perplexity
+3,bigram_sentences,ENtest,8.2832
+3,bigram_sentences,NLtest,25.7575
+3,bigram_sentences,ITtest,15.8954
+3,bigram_word_types,ENtest,15.3381
+3,bigram_word_types,NLtest,28.3851
+3,bigram_word_types,ITtest,15.9395
+5,tetragram_sentences,ENtest,4.1747
+5,tetragram_sentences,NLtest,64.0578
+5,tetragram_sentences,ITtest,47.3791
+5,tetragram_word_types,ENtest,24.6268
+5,tetragram_word_types,NLtest,51.745
+5,tetragram_word_types,ITtest,49.9646

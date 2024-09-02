@@ -1,0 +1,9 @@
+lang,word,ngram_size,training_data,perplexity
+it,molto,3,sents,16.0681
+nl,geval,3,sents,16.0681
+it,molto,3,words,16.0681
+nl,geval,3,words,16.0681
+it,molto,5,sents,9.2209
+nl,geval,5,sents,9.2209
+it,molto,5,words,9.2209
+nl,geval,5,words,9.2209
